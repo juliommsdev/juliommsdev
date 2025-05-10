@@ -20,6 +20,16 @@ Gosto de escrever código limpo, bem organizado e sempre aprender algo novo.
 
 ---
 
+## 🎮 Joguinho: Catch the Bug 🐛
+
+Testa aí meu mini game feito com HTML, CSS e JS!  
+👉 [Jogar agora](https://juliommsdev.github.io/catch-the-bug)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKx6hv5aXWvZtDi/giphy.gif" width="300" alt="Bug Game Preview">
+</p>
+
+
 ### ✨ Sobre mim
 
 - 🔭 Atualmente focado em projetos com **Angular + TypeScript**
