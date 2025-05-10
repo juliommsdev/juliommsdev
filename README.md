@@ -5,7 +5,7 @@ Gosto de escrever código limpo, bem organizado e estou sempre aprendendo algo n
 
 ---
 
-## 🛠️ Tecnologias que uso
+<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tools/tools-original.svg" width="25"/> Tecnologias que uso</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
@@ -17,7 +17,7 @@ Gosto de escrever código limpo, bem organizado e estou sempre aprendendo algo n
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h2><img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="25"/> Estatísticas do GitHub</h2>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=juliommsdev&show_icons=true&theme=radical" alt="Estatísticas GitHub" height="150"/>
@@ -26,10 +26,12 @@ Gosto de escrever código limpo, bem organizado e estou sempre aprendendo algo n
 
 ---
 
-## 🎮 Joguinho: Catch the Bug 🐛
+<h2><img src="https://cdn-icons-png.flaticon.com/512/3468/3468377.png" width="25"/> Joguinho: Catch the Bug</h2>
 
 Testa aí meu mini game feito com HTML, CSS e JS!  
-👉 [**Jogar agora**](https://juliommsdev.github.io/catch-the-bug)
+👉 [**Jogar agora**](https://juliommsdev.github.io/**SEU-REPOSITORIO**/catch-the-bug)
+
+> ⚠️ Substitua `**SEU-REPOSITORIO**` pelo nome do repositório onde está o jogo, se não estiver no `juliommsdev.github.io`.
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKx6hv5aXWvZtDi/giphy.gif" width="300" alt="Bug Game Preview">
@@ -37,15 +39,15 @@ Testa aí meu mini game feito com HTML, CSS e JS!
 
 ---
 
-## ✨ Sobre mim
+<h2><img src="https://cdn-icons-png.flaticon.com/512/1077/1077063.png" width="25"/> Sobre mim</h2>
 
-- 🔭 Atualmente focado em projetos com **Angular + TypeScript**
-- 🌱 Sempre estudando boas práticas, performance e arquitetura
-- 📫 Me chama aqui no GitHub mesmo ou via redes sociais
+- 🔭 Atualmente focado em projetos com **Angular + TypeScript**  
+- 🌱 Sempre estudando boas práticas, performance e arquitetura  
+- 📫 Me chama aqui no GitHub mesmo ou via redes sociais  
 
 ---
 
-## 🌐 Contato & Redes
+<h2><img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="25"/> Contato & Redes</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
@@ -54,7 +56,7 @@ Testa aí meu mini game feito com HTML, CSS e JS!
   <a href="mailto:seuemail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.instagram.com/seuusuario/" target="_blank">
+  <a href="https://www.instagram.com/julio.mmz/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
