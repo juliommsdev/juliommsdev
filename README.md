@@ -1,12 +1,9 @@
-<h1 align="center">👋 Olá! Eu sou o Julio Dev</h1>
+<h1 align="center">Olá! Eu sou o Julio Dev</h1>
 <p align="center">Desenvolvedor Front-end focado em Angular, TypeScript e criatividade no código 🚀</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-link">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:seu@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/juliommsdev">
     <img src="https://img.shields.io/github/followers/juliommsdev?label=GitHub&style=for-the-badge"/>
@@ -59,11 +56,11 @@
 
 ### 📫 Fale comigo
 
-- Email: seu@email.com  
+- Email: juliomms@2022@email.com  
 - LinkedIn: [linkedin.com/in/seu-link](https://www.linkedin.com/in/seu-link)
 
 ---
 
 <p align="center">
-  Feito com ❤️ por Julio Dev
+  Feito por < Julio Dev >
 </p>
