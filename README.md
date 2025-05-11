@@ -70,4 +70,11 @@
 
 ### 🧬 Sobre mim
 
-<p align="left" style="font-family: 'Fira Code', monospace; font-size: 16px;"> <img src="https://cdn-icons-png.flaticon.com/512/1462/1462533.png" width="20px" style="vertical-align: middle;" alt="stack"/> <strong>Full Stack</strong> (Pilhas de tecnologias - Frontend | Backend | APIs)<br> <img src="https://cdn-icons-png.flaticon.com/512/1182/1182965.png" width="20px" style="vertical-align: middle;" alt="frontend"/> <strong>Frontend</strong> (React | Angular | UI/UX)<br> <img src="https://cdn-icons-png.flaticon.com/512/2156/2156313.png" width="20px" style="vertical-align: middle;" alt="backend"/> <strong>Backend</strong> (Node.js | Java | Spring)<br> <img src="https://cdn-icons-png.flaticon.com/512/1077/1077113.png" width="20px" style="vertical-align: middle;" alt="database"/> <strong>Bancos de Dados</strong> (MySQL | MongoDB | Prisma)<br> <img src="https://cdn-icons-png.flaticon.com/512/1032/10320624.png" width="20px" style="vertical-align: middle;" alt="api"/> <strong>APIs</strong> (REST | GraphQL) </p>
+<p align="left" style="font-family: 'Fira Code', monospace; font-size: 16px;">
+  <strong>Full Stack</strong> (Pilhas de tecnologias - Frontend | Backend | APIs)<br>
+  <strong>Frontend</strong> (React | Angular | UI/UX)<br>
+  <strong>Backend</strong> (Node.js | Java | Spring)<br>
+  <strong>Bancos de Dados</strong> (MySQL | MongoDB | Prisma)<br>
+  <strong>APIs</strong> (REST | GraphQL)
+</p>
+
