@@ -36,7 +36,7 @@
   <img src="https://nestjs.com/img/logo-small.svg" width="40px" title="NestJS"/>
 
   <!-- ORM -->
-  <img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/static/img/logo.svg" width="40px" title="Prisma"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40px" title="Prisma"/>
 </p>
 
 ---
