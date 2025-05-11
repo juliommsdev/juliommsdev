@@ -30,15 +30,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40px" title="Angular"/>
 
-<!-- Back-end -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" title="Express"/>
-<img src="https://nestjs.com/img/logo-small.svg" width="40px" title="NestJS"/>
+  <!-- Back-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" title="Express"/>
+  <img src="https://nestjs.com/img/logo-small.svg" width="40px" title="NestJS"/>
 
-
-  <!-- Banco de Dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" title="MongoDB"/>
+  <!-- ORM -->
+  <img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/static/img/logo.svg" width="40px" title="Prisma"/>
 </p>
 
 ---
@@ -46,7 +44,7 @@
 ### 🧬 Sobre mim
 
 ```txt
-💡 Full Stack Developer (Angular | Node.js | PostgreSQL)
+💡 Full Stack Developer (Angular | Node.js | Prisma)
 🎨 UI/UX Designer no Front-end, Arquiteto de APIs no Back-end
 🧠 Pensamento lógico + estética visual = experiências completas
 🎮 Criador de projetos criativos e funcionais, incluindo games, dashboards e APIs
