@@ -70,9 +70,4 @@
 
 ### 🧬 Sobre mim
 
-```txt
-💡 Full Stack Developer (Angular | Node.js | Prisma)
-🎨 UI/UX Designer no Front-end, Arquiteto de APIs no Back-end
-🧠 Pensamento lógico + estética visual = experiências completas
-🎮 Criador de projetos criativos e funcionais, incluindo games, dashboards e APIs
-🚀 Foco em performance, boas práticas e escalabilidade
+<p align="left" style="font-family: 'Fira Code', monospace; font-size: 16px;"> <img src="https://cdn-icons-png.flaticon.com/512/1006/1006360.png" width="20px" style="vertical-align: middle;" alt="chip"/> <strong>Full Stack Developer</strong> (Angular | Node.js | Prisma)<br> <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="20px" style="vertical-align: middle;" alt="design"/> UI/UX focado em clean code e boas práticas<br> <img src="https://cdn-icons-png.flaticon.com/512/219/219987.png" width="20px" style="vertical-align: middle;" alt="brain circuit"/> Lógica + estética = experiências impactantes<br> <img src="https://cdn-icons-png.flaticon.com/512/4470/4470617.png" width="20px" style="vertical-align: middle;" alt="controller"/> Game dev e criador de dashboards funcionais<br> <img src="https://cdn-icons-png.flaticon.com/512/3079/3079041.png" width="20px" style="vertical-align: middle;" alt="rocket tech"/> Foco em performance, escalabilidade e inovação </p>
