@@ -29,6 +29,7 @@
       <th>Linguagem de Programação</th>
       <th>Banco de Dados</th>
       <th>Frameworks e Bibliotecas</th>
+       <th>ORM</th>
       <th>Outras Habilidades</th>
     </tr>
   </thead>
@@ -45,7 +46,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40px" title="SQLite"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" title="MongoDB"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40px" title="Prisma"/>
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js"/>
@@ -54,10 +54,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40px" title="Electron"/>
       </td>
+          <td align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40px" title="Prisma"/>
+      </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" title="Docker"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40px" title="Apache"/>
       </td>
     </tr>
   </tbody>
